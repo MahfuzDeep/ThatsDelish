@@ -1,0 +1,3 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<body style="background-color:goldenrod">
